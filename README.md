@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,mysql" />
 </p>
 
 - 📊 Power BI
@@ -20,6 +20,10 @@
 ---
 
 ## 📂 Projetos em Destaque
+
+- 📊 [Power BI Portfolio](https://github.com/ang-elopes/powerbi-portfolio)
+- ☕ [Sistema de Eventos](https://github.com/ang-elopes/Sistema-de-Eventos)
+- 👥 [Gestão de Equipes](https://github.com/ang-elopes/Gest-Projeto-Equipes)
 
 📊 **Power BI Portfolio**
 - Dashboards interativos
