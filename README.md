@@ -1,8 +1,6 @@
 # Olá! 👋 Eu sou Angelo Gabriel
 
-💻 Estudante de Programação apaixonado por tecnologia, desenvolvimento de software e análise de dados.
-
-Atualmente estou aprimorando minhas habilidades em desenvolvimento back-end e Business Intelligence, criando projetos para colocar meus conhecimentos em prática.
+💻 Sou estudante de Programação com interesse em desenvolvimento de software e análise de dados. Estou desenvolvendo projetos em Java, Python e Power BI para aplicar meus conhecimentos na prática e evoluir continuamente.
 
 ---
 
