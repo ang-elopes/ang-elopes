@@ -21,32 +21,24 @@
 
 ## 📂 Projetos em Destaque
 
-- 📊 [Power BI Portfolio](https://github.com/ang-elopes/powerbi-portfolio)
-- ☕ [Sistema de Eventos](https://github.com/ang-elopes/Sistema-de-Eventos)
-- 👥 [Gestão de Equipes](https://github.com/ang-elopes/Gest-Projeto-Equipes)
+### 📊 [Power BI Portfolio](https://github.com/ang-elopes/powerbi-portfolio)
+Dashboards interativos desenvolvidos no Power BI para análise e visualização de dados.
 
-📊 **Power BI Portfolio**
-- Dashboards interativos
-- KPIs
-- Visualização de dados
-
-☕ **Sistema de Eventos**
-- Java
-- Programação Orientada a Objetos
-
-👥 **Gestão de Equipes**
-- Sistema para gerenciamento de equipes
+**Tecnologias:** Power BI • DAX • Power Query
 
 ---
 
-## 📚 Atualmente estudando
+### ☕ [Sistema de Eventos](https://github.com/ang-elopes/Sistema-de-Eventos)
+Sistema desenvolvido em Java utilizando Programação Orientada a Objetos.
 
-- Java
-- Python
-- SQL
-- Power BI
-- Git e GitHub
+**Tecnologias:** Java • POO
 
+---
+
+### 👥 [Gestão de Equipes](https://github.com/ang-elopes/Gest-Projeto-Equipes)
+Sistema para gerenciamento de equipes e organização de projetos.
+
+**Tecnologias:** Java
 ---
 
 ## 📊 Estatísticas do GitHub
